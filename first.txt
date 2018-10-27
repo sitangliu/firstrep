@@ -6,3 +6,5 @@ can you tell me how to do
 可以登录github了
 
 creating a new branch is quick
+
+creaing a new branch is quick & simple

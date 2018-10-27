@@ -9,3 +9,5 @@ creating a new branch is quick
 
 
 creaing a new branch is quick & simple
+
+create a new branch dev simple
